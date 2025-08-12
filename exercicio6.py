@@ -1,3 +1,5 @@
+# calculadora de imc
+
 ola=input("ola, agoara vamos calcular seu imc,TECLE ENTER !")
 p1=float(input("qual seu peso em quilogramas?"))
 p2=float(input("qual sua altura em metros"))
