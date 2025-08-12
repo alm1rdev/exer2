@@ -1,3 +1,5 @@
+#valor de compra
+
 caderno= 15
 caneta=2.5
 uni1=int(input("quantos cadernos voce comprou?"))
